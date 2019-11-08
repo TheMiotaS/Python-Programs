@@ -7,3 +7,5 @@ This is also the reason why i won't be making a pull request. But, if you do wan
 - Calculator.py
 - Mean Calculator.py
 - Guess That Number!.py
+
+(*Linear Equations Calculator.py* will be tackled in later versions.)
